@@ -1,0 +1,99 @@
+My Universe,,,,,,
+Big Sky,West,East,,,,
+Big South ,East,West,,,,
+CAA,North ,South,,,,
+Ivy League ,Rolfe,Lou Gehrig,,,,
+MEAC,Atlantic ,Coastal,,,,
+Missouri Valley,North ,South,,,,
+# Team format:,Conference,Division,Name,Abbr,Prestige,Rival
+# Big Sky,,,,,,
+TEAM,Big Sky,West,Eastern Washington,EWU,97,VPO
+TEAM,Big Sky,West,Idaho,UOI,97,ISU
+TEAM,Big Sky,West,Northern Arizona,NAU,75,NCU
+TEAM,Big Sky,West,Portland State,PST,71,DVD
+TEAM,Big Sky,West,Sacramento State,SCST,55,AMS
+TEAM,Big Sky,West,Weber State,WSU,78,SUU
+TEAM,Big Sky,West,Montana,UM,71,MSU
+TEAM,Big Sky,East,Valparaiso,VPO,26,EWU
+TEAM,Big Sky,East,Davidson,DVD,70,PST
+TEAM,Big Sky,East,American Samoa,AMS,25,SCST
+TEAM,Big Sky,East,Northern Colorado,NCU,84,NAU
+TEAM,Big Sky,East,Southern Utah,SUU,59,WSU
+TEAM,Big Sky,East,Montana State,MSU,98,UM
+TEAM,Big Sky,East,Idaho State,ISU,79,UOI
+# Big South,,,,,,
+TEAM,Big South,East ,Monmouth,MON,99,GW
+TEAM,Big South,East ,Kennesaw St,KSU,86,CTA
+TEAM,Big South,East ,Charleston Southern,CSO,45,CTD
+TEAM,Big South,East ,North Alabama,NAB,28,UTM
+TEAM,Big South,East ,Campbell ,CAM,47,TT
+TEAM,Big South,East ,Presbyterian,PRE,87,TST
+TEAM,Big South,East ,Hampton,HTN,77,ESTN
+TEAM,Big South,West,Gardner-Webb,GW,88,MON
+TEAM,Big South,West,Chattanooga,CTA,47,KSU
+TEAM,Big South,West,Citadel,CTD,99,CSO
+TEAM,Big South,West,Tennesee - Martin,UTM,63,NAB
+TEAM,Big South,West,Tennesee Tech,TT,63,CAM
+TEAM,Big South,West,Tennesee State ,TST,60,PRE
+TEAM,Big South,West,Eastern Tennesee State,ESTN,41,HTN
+# B1G,,,,,,
+TEAM,CAA,North,Albany,ANY,91,W&M
+TEAM,CAA,North,New Hampshire,UNH,31,DE
+TEAM,CAA,North,Stony Brook,SBK,62,TOW
+TEAM,CAA,North,Rhode Island,RI,84,RICH
+TEAM,CAA,North,Maine,ME,35,JMU
+TEAM,CAA,North,Central Connecticut State,CCTST,46,LGH
+TEAM,CAA,North,Fordham ,FDM,59,BKN
+TEAM,CAA,South,W&M,W&M,92,ANY
+TEAM,CAA,South,Delaware,DE,64,UNH
+TEAM,CAA,South,Towson,TOW,52,SBK
+TEAM,CAA,South,Richmond,RICH,34,RI
+TEAM,CAA,South,James Madison,JMU,78,ME
+TEAM,CAA,South,Lehigh,LGH,65,CCTST
+TEAM,CAA,South,Bucknell,BKN,31,FDM
+# Ivy League,,,,,,
+TEAM,Ivy League,Rolfe,Dartmouth,DART,67,COL
+TEAM,Ivy League,Rolfe,Yale,YU,90,HAR
+TEAM,Ivy League,Rolfe,Princeton,PNT,57,BRO
+TEAM,Ivy League,Rolfe,Penn,PEN,45,ELO
+TEAM,Ivy League,Rolfe,Cornell,COR,69,NOVA
+TEAM,Ivy League,Rolfe,Duquesne,DQ,78,GGT
+TEAM,Ivy League,Rolfe,Sacred Heart,SH,79,CGT
+TEAM,Ivy League,Lou Gehrig,Columbia,COL,51,DART
+TEAM,Ivy League,Lou Gehrig,Harvard,HAR,90,YU
+TEAM,Ivy League,Lou Gehrig,Brown,BRO,52,PNT
+TEAM,Ivy League,Lou Gehrig,Elon,ELO,90,PEN
+TEAM,Ivy League,Lou Gehrig,Villanova,NOVA,84,COR
+TEAM,Ivy League,Lou Gehrig,Georgetown,GGT,25,DQ
+TEAM,Ivy League,Lou Gehrig,Colgate ,CGT,29,SH
+# MEAC,,,,,,
+TEAM,MEAC,Atlantic,Delaware State ,DST,38,HOW
+TEAM,MEAC,Atlantic,Norfolk State,NS,59,CAR
+TEAM,MEAC,Atlantic,Florida A&M,FAM,99,MST
+TEAM,MEAC,Atlantic,North Carolina A&T,NCAT,39,NCC
+TEAM,MEAC,Atlantic,South Carolina State,SCST,51,BCU
+TEAM,MEAC,Atlantic,Long Island,LIU,46,RM
+TEAM,MEAC,Atlantic,Virginia Military ,VMI,65,BYT
+TEAM,MEAC,Coastal,Howard,HOW,72,DST
+TEAM,MEAC,Coastal,Western Carolina,CAR,81,NS
+TEAM,MEAC,Coastal,Morgan State ,MST,58,FAM
+TEAM,MEAC,Coastal,North Carolina Central,NCC,28,NCAT
+TEAM,MEAC,Coastal,Bethune-Cookman ,BCU,78,SCST
+TEAM,MEAC,Coastal,Robert Morris,RM,64,LIU
+TEAM,MEAC,Coastal,Bryant,BYT,86,VMI
+# Missouri Valley,,,,,,
+TEAM,Missouri Valley,North ,North Dakota State,NDST,53,SDST
+TEAM,Missouri Valley,North ,Northern Iowa,NIU,93,SIU
+TEAM,Missouri Valley,North ,South Dakota,SD,43,INST
+TEAM,Missouri Valley,North ,Western Illinois,WIL,87,IST
+TEAM,Missouri Valley,North ,Youngstown State,YST,100,MIST
+TEAM,Missouri Valley,North ,Austin Peay,APY,62,EILL
+TEAM,Missouri Valley,North ,Southeastern Missouri State,SEMO,25,MRY
+TEAM,Missouri Valley,South,Indiana State ,INST,82,SD
+TEAM,Missouri Valley,South,Missouri State,MIST,25,YST
+TEAM,Missouri Valley,South,Illinois State,IST,69,WIL
+TEAM,Missouri Valley,South,South Dakota State,SDST,43,NDST
+TEAM,Missouri Valley,South,Southern Illinois,SIU,96,NIU
+TEAM,Missouri Valley,South,Eastern Illinois,EILL,41,APY
+TEAM,Missouri Valley,South,Murray State,MRY,70,SEMO
+END_FILE,,,,,,
